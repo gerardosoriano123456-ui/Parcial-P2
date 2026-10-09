@@ -1,6 +1,6 @@
-# Practica Parcial de C#
+# Parcial-P2
 
-Aplicacion de escritorio de Windows Forms con ejercicios introductorios de C# y programacion orientada a objetos.
+Aplicación de escritorio en C# con Windows Forms que presenta ejercicios de programación básica y POO: variables, condicionales, ciclos, clases, herencia, polimorfismo, encapsulamiento e interfaces.
 
 ## Requisitos
 
